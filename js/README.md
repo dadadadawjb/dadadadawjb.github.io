@@ -1,0 +1,2 @@
+# js codes directory
+
