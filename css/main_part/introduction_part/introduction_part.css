@@ -1,0 +1,25 @@
+.introduction_part {
+	margin: 5px;
+	padding: 8px 10px;
+	background: #EF3B36;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #dddddd, #EF3B36, #dddddd);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #dddddd, #EF3B36, #dddddd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	border:none;
+	border-radius: 25px;
+	overflow: hidden;
+}
+			
+.introduction_part .introduction_img {
+	float: left;
+	width: 20%;
+}
+
+.introduction_part .personal_img {
+	float: right;
+	width: 40%;
+}
+			
+.introduction_part .introduction_content {
+	float: left;
+	width: 40%;
+}
